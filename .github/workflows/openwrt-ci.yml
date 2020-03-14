@@ -193,4 +193,3 @@ jobs:
         with:
           name: OpenWrt firmware
           path: bin/targets
-© 2020 GitHub, Inc.
