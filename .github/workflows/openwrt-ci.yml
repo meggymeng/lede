@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: OpenWrt-Piday
+name: OpenWrt-CI
 
 on:
   push:
@@ -193,3 +193,4 @@ jobs:
         with:
           name: OpenWrt firmware
           path: bin/targets
+© 2020 GitHub, Inc.
